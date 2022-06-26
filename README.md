@@ -10,7 +10,7 @@
 
 ## Skills
 **Expertise level** <br>
-HTML, CSS, Javascript, PHP, Node, MySQL.
+HTML, CSS, Javascript, PHP, Laravel, Node, MySQL.
 
 ## Related Work Experience
 
