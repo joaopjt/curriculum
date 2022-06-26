@@ -9,7 +9,7 @@
 **Marital Status:** Married <br>
 
 ## Skills
-**Expertise level**
+**Expertise level** <br>
 HTML, CSS, Javascript, PHP, Node, MySQL.
 
 ## Related Work Experience
