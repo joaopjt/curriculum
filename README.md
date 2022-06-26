@@ -6,7 +6,7 @@
 **Email:** joaopjt@gmail.com <br>
 **Date of birth:** 18/03/1998 <br>
 **Nationality:** Brazil <br>
-**Living city:** Franca, Sao Paulo <br>
+**Living:** Franca, Sao Paulo <br>
 **Marital Status:** Married <br>
 
 ## Skills
