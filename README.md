@@ -2,11 +2,11 @@
 
 ## Personal Details
 
-**Name:** João Pedro Julio Tavares
-**Email:** joaopjt@gmail.com
-**Date of birth:** 18/03/1998
-**Nationality:** Brazil
-**Marital Status:** Married
+**Name:** João Pedro Julio Tavares <br>
+**Email:** joaopjt@gmail.com <br>
+**Date of birth:** 18/03/1998 <br>
+**Nationality:** Brazil <br>
+**Marital Status:** Married <br>
 
 ## Skills
 **Expertise level**
