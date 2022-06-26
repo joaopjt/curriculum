@@ -42,12 +42,12 @@ HTML, CSS, Javascript, PHP, Laravel, Node, SQL and NoSQL databases.
 **High School** - E. E. Prof. Dr. João Marciano de Almeida  
 
 ## Books interest
-Charles Dickens - Hard times and Great Expectations
-Shakespeare - Romeo and Juliet, Otelo
-Freud - Pulsional Dinamic and Pisicologia das massas e analise do eu
-Plato - The Republic
-Dante Alighieri - Divine Comedy
-Carl Jung - The Red Book
+Charles Dickens - Hard times and Great Expectations <br>
+Shakespeare - Romeo and Juliet, Otelo <br>
+Freud - Pulsional Dinamic and Pisicologia das massas e analise do eu <br>
+Plato - The Republic <br>
+Dante Alighieri - Divine Comedy <br>
+Carl Jung - The Red Book <br>
 
 ## Other skills
 
