@@ -48,6 +48,7 @@ Freud - Pulsional Dinamic and Pisicologia das massas e analise do eu <br>
 Plato - The Republic <br>
 Dante Alighieri - Divine Comedy <br>
 Carl Jung - The Red Book <br>
+Liev Tostoi - War and Peace, Anna Karenina <br>
 
 ## Other skills
 
